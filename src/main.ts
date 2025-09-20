@@ -1,4 +1,4 @@
-import "./ejercicios/03-funciones";
+import "./calificar/clase-1-2";
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 app.innerHTML = `Hola Mundo`;
