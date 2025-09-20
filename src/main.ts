@@ -1,4 +1,4 @@
-import "./ejercicios/01-tipos-datos";
+import "./ejercicios/03-funciones";
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 app.innerHTML = `Hola Mundo`;
