@@ -1,4 +1,4 @@
-import "./calificar/clase-1-2";
+import "./calificar/clase-2-1";
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 app.innerHTML = `Hola Mundo`;
